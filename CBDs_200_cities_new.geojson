@@ -1,0 +1,946 @@
+{
+  "type": "FeatureCollection",
+  "name": "CBDs_200_cities_new",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84",
+      "City_Name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Cordoba",
+        "City_Name": "Grán Cárdoba",
+        "Country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.190822999503894, -31.416466998929469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_cochabamba",
+        "City_Name": "Grán Cochabamba",
+        "Country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.154010353842239, -17.387770725225021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Belo_horizonte",
+        "City_Name": "Grán Belo Horizonte",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.936423998709152, -19.923763998792278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Curitiba",
+        "City_Name": "Grán Curitiba",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.268680173114362, -25.417551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Palmas",
+        "City_Name": "Palmas",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.33360625864654, -10.18580703052543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Bogota",
+        "City_Name": "Grán Bogotá, D.C.",
+        "Country": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.076515891949185, 4.598428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Quito",
+        "City_Name": "Grán Quito",
+        "Country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.51082169516846, -0.220859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Culiacan",
+        "City_Name": "Culiacán",
+        "Country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.393702317657699, 24.807042812479491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Buenosaires",
+        "City_Name": "Grán Buenos Aires",
+        "Country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.402261687123868, -34.594719239698925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Guadalajara",
+        "City_Name": "Grán Guadalajara",
+        "Country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.34693355796712, 20.676266015390141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Guatemala_City",
+        "City_Name": "Grán Guatemala City",
+        "Country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.516462985103018, 14.612617245764929]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Ilheus",
+        "City_Name": "Ilhéus",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-39.036599999995339, -14.798029999995517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Jequie",
+        "City_Name": "Jequié",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.080989999995339, -13.861519999995602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Kingston",
+        "City_Name": "Grán Kingston",
+        "Country": "Jamaica"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.788471, 17.968725] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_mexico_city",
+        "City_Name": "Grán Mexico City",
+        "Country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.133326996878424, 19.432606957256201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Montevideo",
+        "City_Name": "Grán Montevideo",
+        "Country": "Uruguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.218285754880235, -34.903729890916033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Ribeirao_Preto",
+        "City_Name": "Ribeiráo Preto",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.805273392595588, -21.177628212195511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_San_Salvador",
+        "City_Name": "Grán San Salvador",
+        "Country": "El Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.191359551866896, 13.69803917303736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Santiago",
+        "City_Name": "Grán Santiago",
+        "Country": "Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.650719500000136, -33.4382495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Sao_Paulo",
+        "City_Name": "Grán Sao Paulo",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.632999500000089, -23.532999499999963]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Tijuana",
+        "City_Name": "Tijuana",
+        "Country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.04172396740671, 32.534912632205945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Valledupar",
+        "City_Name": "Valledupar",
+        "Country": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.250120242443245, 10.47318499718831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Reynosa",
+        "City_Name": "Reynosa",
+        "Country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.279815673907095, 26.07953880437633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Leon",
+        "City_Name": "León",
+        "Country": "Nicaragua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.877329106135022, 12.437425903625341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Medellin",
+        "City_Name": "Grán Medellín",
+        "Country": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.573499993696544, 6.257480513911159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Cartagena_de_Indias",
+        "City_Name": "Grán Cartagena de Indias",
+        "Country": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.540313752037562, 10.421882399577644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Cali",
+        "City_Name": "Grán Cali",
+        "Country": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.534275582189196, 3.454112212318934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Merida",
+        "City_Name": "Grán Mérida",
+        "Country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.624434747840823, 20.967172178689573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Monterrey",
+        "City_Name": "Grán Monterrey",
+        "Country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.310847095887354, 25.673677826431557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Florianopolis",
+        "City_Name": "Grán Florianópolis",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.554918071859127, -27.59637074016409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Nuestra_Senora_de_la_paz",
+        "City_Name": "Grán Nuestra Señora de La Paz",
+        "Country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.135734359611206, -16.502000958845461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Arequipa",
+        "City_Name": "Grán Arequipa",
+        "Country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.536761996332487, -16.399568857367317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Santa_Fe",
+        "City_Name": "Santa Fe",
+        "Country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.712257754724384, -31.64978423961724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Rosario",
+        "City_Name": "Rosario",
+        "Country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.632281614642409, -32.947163637698374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Portoviejo",
+        "City_Name": "Portoviejo",
+        "Country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.453375224089029, -1.055200885452173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Asuncion",
+        "City_Name": "Grán Asuncion",
+        "Country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.623281944444443, -25.283266346808187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Ayacucho",
+        "City_Name": "Grán Ayacucho",
+        "Country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.225603887322947, -13.160275973527177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Cuenca",
+        "City_Name": "Grán Cuenca",
+        "Country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.004699589858092, -2.897946256737427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_fortaleza",
+        "City_Name": "Grán Fortaleza",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.556650567999952, -3.779499346999955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Guayaquil",
+        "City_Name": "Grán Guayaquil",
+        "Country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.880755351200008, -2.195388956632779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_El_Alto",
+        "City_Name": "Grán La Paz",
+        "Country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.206190558903046, -16.491381820120804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Recife",
+        "City_Name": "Grán Recife",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-34.92225369199997, -8.033798410999966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Porto_Alegre",
+        "City_Name": "Grán Porto Alegre",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.228679537026487, -30.028005308021953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Lima",
+        "City_Name": "Grán Lima",
+        "Country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.031112424586283, -12.045126350116732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Pasto",
+        "City_Name": "Pasto",
+        "Country": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.276284451040965, 1.209148642871683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Niteroi",
+        "City_Name": "Grán Niterói",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.119236341970883, -22.88951221506662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Barranquilla",
+        "City_Name": "Grán Barranquilla",
+        "Country": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.778426353946756, 10.981720482622448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Belize_City",
+        "City_Name": "Belize City",
+        "Country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.187421111111121, 17.494216027271904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Bridgetown",
+        "City_Name": "Grán Bridgetown",
+        "Country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-59.617304727676611, 13.099468589730503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Campo_Grande",
+        "City_Name": "Campo Grande",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.606555, -20.46143177232339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Cusco",
+        "City_Name": "Grán Cusco",
+        "Country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.967269109643127, -13.5214924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Esmeralda",
+        "City_Name": "Grán Esmeralda",
+        "Country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.6549003, 0.97219344758922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Georgetown",
+        "City_Name": "Georgetown",
+        "Country": "Guyana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.1653342, 6.81102534758922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_San_Jose",
+        "City_Name": "Grán San José",
+        "Country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.09504, 9.9316951379461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Hermosillo",
+        "City_Name": "Hermosillo",
+        "Country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.95579975553467, 29.06705264276766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_La_Serena",
+        "City_Name": "Grán La Serena",
+        "Country": "Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.251221214151485, -29.902205792924253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Macapa",
+        "City_Name": "Macapa",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.0572803, 0.037313964308083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Managua",
+        "City_Name": "Grán Managua",
+        "Country": "Nicaragua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.274050318973053, 12.156873390356882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Mendoza",
+        "City_Name": "Grán Mendoza",
+        "Country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.843498616322279, -32.89765442974327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Nassau",
+        "City_Name": "Nassau",
+        "Country": "Bahamas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.342138342767655, 25.075040305948651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Panama_City",
+        "City_Name": "Grán Panama City",
+        "Country": "Panama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.534786676205385, 8.970975286975603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Paramaribo",
+        "City_Name": "Grán Paramaribo",
+        "Country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.159233932060083, 5.823427308202839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Puerto_Principe",
+        "City_Name": "Grán Port-au-Prince",
+        "Country": "Haiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.347115, 18.550443891863221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Quetzaltenango",
+        "City_Name": "Grán Quetzaltenango",
+        "Country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.518192501127103, 14.834172224921705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Santa_Ana",
+        "City_Name": "Grán Santa Ana",
+        "Country": "El Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.557886946462119, 13.994976951753276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Santo_Domingo",
+        "City_Name": "Grán Santo Domingo",
+        "Country": "República Dominicana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.927798888888887, 18.44827416904613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Tarija",
+        "City_Name": "Grán Tarija",
+        "Country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.724054175078308, -21.526824720820283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Tegucigalpa",
+        "City_Name": "Tegucigalpa",
+        "Country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.204122228616157, 14.104432502974328]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Valparaiso",
+        "City_Name": "Grán Valparaíso",
+        "Country": "Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.611300833333331, -33.045660830359004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Linhares",
+        "City_Name": "Linhares",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.064854356013363, -19.400437765372541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Gran_Esmeralda",
+        "City_Name": "Grán Esmeralda",
+        "Country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.625058022947854, 0.974593564615212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "name": "Villavicencio",
+        "City_Name": "Villavicencio",
+        "Country": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.63972100810453, 4.152236743417888]
+      }
+    }
+  ]
+}
